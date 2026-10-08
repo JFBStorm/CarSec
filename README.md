@@ -102,9 +102,25 @@ The project provided experience working with:
 
 CarSec was created as part of a university group project. The goal was to develop an Android application related to vehicle security while gaining practical experience with mobile application development and team-based software engineering.
 
+## Research & Security Analysis
+
+As part of the CarSec project, our team conducted research into modern vehicle-security technologies and potential vulnerabilities associated with connected vehicle systems.
+
+The research paper explores several approaches to securing vehicles and the communication between users and vehicle systems, including:
+
+- **Biometric authentication** — Examining methods such as facial recognition and fingerprint scanning as potential mechanisms for authenticating vehicle users.
+- **RFID technology** — Investigating how RFID tags can be used for vehicle access and identification, as well as how RFID systems can potentially be exploited for malicious purposes.
+- **Secure communication** — Researching methods for establishing secure connections and protecting information exchanged between users and vehicle systems.
+- **Vehicle-security threats** — Examining potential attack vectors and security weaknesses associated with modern vehicle technologies.
+
+The research provided the security and technology background for the CarSec project and helped inform the team's approach to developing the application.
+
+**[374 Group Paper](./docs/CarSec-Research-Paper.pdf)**
+
 ## Contributors
 
-This project was developed collaboratively by a student development team.
+Asem Alseidi, Nicholas Fiori, Asm Sadman, Joshua Barren, Jashuva Thaddi, Mohamed Hussein, 
+Jaden Ziga, Hadi Hage.
 
 **My role:** Android application development, authentication, and UI implementation.
 
