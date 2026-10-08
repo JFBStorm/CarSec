@@ -115,7 +115,7 @@ The research paper explores several approaches to securing vehicles and the comm
 
 The research provided the security and technology background for the CarSec project and helped inform the team's approach to developing the application.
 
-**[374 Group Paper](./docs/CarSec-Research-Paper.pdf)**
+**[374 Group Paper](./docs/Final 374 Paper - Group 2 - Vehicle Security.pdf)**
 
 ## Contributors
 
