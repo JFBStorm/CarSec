@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174063176939",
+    "project_id": "carsec-9f959",
+    "storage_bucket": "carsec-9f959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174063176939:android:6b8907a8ec64d5a30fc2ae",
+        "android_client_info": {
+          "package_name": "com.example.carsec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaEbBs1Bqg9xMT_eZhzzVxZwHsGZM5ELo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
